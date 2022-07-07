@@ -1,0 +1,11 @@
+C:\Pediatrija_Kviz\Kviz\Kviz\bin\Debug\Kviz.exe.config
+C:\Pediatrija_Kviz\Kviz\Kviz\bin\Debug\Kviz.exe
+C:\Pediatrija_Kviz\Kviz\Kviz\bin\Debug\Kviz.pdb
+C:\Pediatrija_Kviz\Kviz\Kviz\obj\Debug\Kviz.csproj.AssemblyReference.cache
+C:\Pediatrija_Kviz\Kviz\Kviz\obj\Debug\Kviz.csproj.SuggestedBindingRedirects.cache
+C:\Pediatrija_Kviz\Kviz\Kviz\obj\Debug\Kviz.Properties.Resources.resources
+C:\Pediatrija_Kviz\Kviz\Kviz\obj\Debug\Kviz.csproj.GenerateResource.cache
+C:\Pediatrija_Kviz\Kviz\Kviz\obj\Debug\Kviz.csproj.CoreCompileInputs.cache
+C:\Pediatrija_Kviz\Kviz\Kviz\obj\Debug\Kviz.exe
+C:\Pediatrija_Kviz\Kviz\Kviz\obj\Debug\Kviz.pdb
+C:\Pediatrija_Kviz\Kviz\Kviz\obj\Debug\Kviz.Form1.resources
